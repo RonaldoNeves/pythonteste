@@ -1,3 +1,3 @@
 # pythonteste
 teste02
-Testando criaçao de repositorios com Pycharm no Linux Ubunto
+Testando criaçao de repositorios com Pycharm no Linux Ubuntu
