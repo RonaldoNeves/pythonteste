@@ -13,6 +13,8 @@ e = n1**n2
 print('o valor da soma é {}, o produto {}, a divisão {:.3f}'.format(s, m, d), end='  ')
 print('divisão inteira {}, potencia {}'.format(di, e))
 print('teste de github')
+print('teste no visual studio code')
+
 
 
 
